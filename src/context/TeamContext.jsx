@@ -10,43 +10,43 @@ const DEFAULT_TEAM_CONFIG = {
   members: [
     {
       id: 'member-1',
-      name: 'Cat Owens',
+      name: 'Felicia Carr',
       role: 'Senior Account Executive',
-      email: 'cat.owens@elastic.co',
-      phone: '202.360.9384',
+      email: 'felicia.carr@elastic.co',
+      phone: '301.529.8195',
       color: '#48EFCF',
-      initials: 'CO',
-      photo: 'photos/cat-profile.jpeg'
+      initials: 'FC',
+      photo: 'photos/felicia-profile.jpeg'
     },
     {
       id: 'member-2',
-      name: 'Daniel Barr',
+      name: 'Rich Cabrera',
       role: 'Senior Solutions Architect',
-      email: 'daniel.barr@elastic.co',
-      phone: '914.619.6230',
+      email: 'rich.cabrera@elastic.co',
+      phone: '703.939.4047',
       color: '#0B64DD',
-      initials: 'DB',
-      photo: 'photos/dan-profile.jpeg'
+      initials: 'RC',
+      photo: 'photos/rich-profile.jpg'
     },
     {
       id: 'member-3',
-      name: 'Gene Kent',
-      role: 'RVP Defense Industrial Base',
-      email: 'gene.kent@elastic.co',
-      phone: '813.205.6097',
+      name: 'Rob Amos',
+      role: 'RVP Federal Civilian',
+      email: 'rob.amos@elastic.co',
+      phone: '703.209.6480',
       color: '#F04E98',
-      initials: 'GK',
-      photo: 'photos/gene-profile.jpeg'
+      initials: 'RA',
+      photo: 'photos/rob-profile.jpeg'
     },
     {
       id: 'member-4',
-      name: 'Matt Wall',
+      name: 'Chris Pavona',
       role: 'Sr. Regional Service Provider',
-      email: 'matthew.wall@elastic.co',
-      phone: '831.756.6386',
+      email: 'chris.pavona@elastic.co',
+      phone: '757.553.8015',
       color: '#FEC514',
-      initials: 'MW',
-      photo: 'photos/matt-profile.jpeg'
+      initials: 'CP',
+      photo: 'photos/chris-profile.jpeg'
     }
   ]
 }
